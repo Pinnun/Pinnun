@@ -1,4 +1,4 @@
-gem install aspect_ratio
+!gem install aspect_ratio
 require 'aspect_ratio'
 AspectRatio.crop(2048, 768, '4:3');
 // [512, 768, 1024, 768] 
