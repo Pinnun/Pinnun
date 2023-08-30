@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pineko</h1>
+<h1 align="center">Hi 👋, You can call me Pineko</h1>
 <h3 align="center">A Student MADT at NIDA</h3>
 
 - 🔭 I’m currently working on **KKP**
