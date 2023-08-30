@@ -1,3 +1,4 @@
+![Pict](https://github.com/Pinnun/Pinnun/blob/a0588db46f681483120e36f292742aab19319d85/Github%20dec.png)
 <h1 align="center">Hi 👋, You can call me Pineko</h1>
 <h3 align="center">A Student MADT at NIDA</h3>
 
