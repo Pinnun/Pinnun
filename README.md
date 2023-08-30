@@ -1,3 +1,6 @@
+require 'aspect_ratio'
+AspectRatio.crop(2048, 768, '4:3');
+// [512, 768, 1024, 768] 
 ![Pict](https://github.com/Pinnun/Pinnun/blob/633ffdbd9361c7996557f55d44fa5e3eefd5fee9/Github%20dec.png)
 <h1 align="center">Hi 👋, You can call me Pineko</h1>
 <h3 align="center">A Student MADT at NIDA</h3>
